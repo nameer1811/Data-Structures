@@ -1,2 +1,2 @@
 # Data-Structures
-This repository contains all the projects from my Data Structures class (CS 341)
+This repository contains all the projects I have done regarding data structures.
